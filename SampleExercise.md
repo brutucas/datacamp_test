@@ -29,7 +29,7 @@ outputs = model.generate(inputs, max_length=____, num_return_sequences=____)
 print("Generated text:", tokenizer.decode(outputs[0], skip_special_tokens=True))
 ```
 ***
-Answers:
+#### Answers:
 1) GPT2LMHeadModel
 2) GPT2Tokenizer
 3) 50
