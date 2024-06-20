@@ -42,8 +42,6 @@ In a more complicated exercise, I would include the hints here.
 <details>
 <summary>Answers:</summary>
 <br>
-These are the answers to the exercise:
-  <br>
 1) GPT2LMHeadModel
   <br>
 2) GPT2Tokenizer
