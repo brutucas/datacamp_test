@@ -4,9 +4,9 @@
 As part of the interview process for **DataCamp Content Developer**, I have completed an assignment to create an example course, *'Text Generation with Hugging Face'*. 
 
 Here are two screencast recordings:
-Lesson 1) [Screencast 1 - Basic GPT-2 Text Generation](https://drive.google.com/file/d/1EImbyjgDfjzwVATpGwackk0fbkrORR39/view?usp=sharing)
 
-Lesson 2) [Screencast - Interactive Storytelling with GPT-2](https://drive.google.com/file/d/1y5FNcYwFrUSakHdSvrcbYCaVTAYt_TD1/view?usp=drive_link)
+- [Screencast 1 - Basic GPT-2 Text Generation](https://drive.google.com/file/d/1EImbyjgDfjzwVATpGwackk0fbkrORR39/view?usp=sharing)
+- [Screencast - Interactive Storytelling with GPT-2](https://drive.google.com/file/d/1y5FNcYwFrUSakHdSvrcbYCaVTAYt_TD1/view?usp=drive_link)
 
 ^ Please note: I needed to keep within the 4-minute limit, so divided the resource I created into *two lesson recordings* and include them both for your convenience.
 
