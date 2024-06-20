@@ -8,14 +8,15 @@ As part of my research for this course proposal, I was impressed (and have alrea
 But after looking at the existing DataCamp lessons on text generation, I identified text generation using the Hugging Face Transformers library (undoubtedly a cutting-edge 'frontier' of AI) as an area that would benefit from more course provision. 
 
 Indeed, this course is designed to fill a gap that I need as a learner, in order to be able to confidently generate a wide variety, complexity, and length of text with pre-trained models, especially in different use-case scenarios.
-
-#### Course Description:
+***
+### Course Description:
 This course explores the use of Hugging Face Transformers, a leading tool in natural language processing (NLP), for text generation. Students will learn to implement, fine-tune, and deploy various transformer models to produce human-like text, exploring both the technical implementations and creative applications.
 
 To complete this course, you would benefit from having already completed ‘Deep Learning for Text with PyTorch’ and ‘Working with Hugging Face’. Upon finishing this course, you will have much more confidence using the Hugging Face state-of-the-art ‘Transformers’ library to complete challenging ‘Text Generation’ tasks. It will also serve as a helpful stepping stone to the larger ‘Introduction to LLMs in Python’ course.
 
 ***
 
+### Course Objectives:
 What will this course help you to achieve? For a more streamlined list of objectives, please refer to the course outline. You will see below an exhaustive list of the course objectives. 
 
 It is very long - much longer than anything I would put into a guide for learners. But I include it, because the too-long list demonstrates very clearly the progress that a DataCamp learner will have made upon completion of the lessons and exercises in this proposed *'Text Generation with Hugging Face'* course.
