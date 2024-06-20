@@ -20,11 +20,15 @@ outputs = model.generate(inputs, max_length= 3)___ , num_return_sequences= 4)___
 print("Generated text:", tokenizer.decode(outputs[0], skip_special_tokens=True))
 
 #### Here are the exercise instructions in different format:
-Replace 1)___ with the name of the class for loading the model.
-Replace 2)___ with the name of the tokenizer class from the Transformers library.
-Fill in 3)___ to set the number of tokens for the generated text as 50.
-Input a suitable number in 4)___ to generate 2 different text sequences based on the input.
-BONUS: Run the code with various inputs and parameters and consider the impact on generated text output with changes in max_length and num_return_sequences.
+- Replace 1)___ with the name of the class for loading the model.
+  
+- Replace 2)___ with the name of the tokenizer class from the Transformers library.
+  
+- Fill in 3)___ to set the number of tokens for the generated text as 50.
+  
+- Input a suitable number in 4)___ to generate 2 different text sequences based on the input.
+  
+- BONUS: Run the code with various inputs and parameters and consider the impact on generated text output with changes in max_length and num_return_sequences.
 
 Answers:
 1) GPT2LMHeadModel
