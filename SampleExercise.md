@@ -4,7 +4,7 @@
 - Learners will load a pre-trained model and tokenizer, then complete a script that generates text based on a given input prompt. 
 - Upon completion of this exercise, learners will have loaded a Hugging Face transformer model, generated text, and better understand parameters.
 ***
-#### Here are the exercise instructions:
+#### Instructions:
 - Import `GPT2LMHeadModel` and `GPT2Tokenizer` from the `transformers` library.
 - Load the model and tokenizer from `.pretrained` 
 - Set the number of tokens for the `max_length` of generated text as 50.
@@ -28,6 +28,13 @@ inputs = tokenizer.encode("Today's weather is", add_special_tokens=True, return_
 outputs = model.generate(inputs, max_length=____, num_return_sequences=____)
 print("Generated text:", tokenizer.decode(outputs[0], skip_special_tokens=True))
 ```
+***
+#### Hints:
+<details>
+<summary>Hints:</summary>
+<br>
+In a more complicated exercise, I would include the hints here.
+</details>
 ***
 #### Answers:
 1) GPT2LMHeadModel
