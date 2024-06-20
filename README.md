@@ -13,9 +13,7 @@ Indeed, this course is designed to fill a gap that I need as a learner, in order
 This course explores the use of Hugging Face Transformers, a leading tool in natural language processing (NLP), for text generation. Students will learn to implement, fine-tune, and deploy various transformer models to produce human-like text, exploring both the technical implementations and creative applications.
 
 To complete this course, you would benefit from having already completed ‘Deep Learning for Text with PyTorch’ and ‘Working with Hugging Face’. Upon finishing this course, you will have much more confidence using the Hugging Face state-of-the-art ‘Transformers’ library to complete challenging ‘Text Generation’ tasks. It will also serve as a helpful stepping stone to the larger ‘Introduction to LLMs in Python’ course.
-
 ***
-
 ### Course Objectives:
 What will this course help you to achieve? For a more streamlined list of objectives, please refer to the course outline. You will see below an exhaustive list of the course objectives. 
 
