@@ -33,6 +33,7 @@ print("Generated text:", tokenizer.decode(outputs[0], skip_special_tokens=True))
 <summary>Hints:</summary>
 <br>
 Welcome to this very extravagant dropdown.
+  <br>
 In a more complicated exercise, I would include the hints here.
 </details>
 
@@ -42,6 +43,7 @@ In a more complicated exercise, I would include the hints here.
 <summary>Answers:</summary>
 <br>
 These are the answers to the exercise:
+  <br>
 1) GPT2LMHeadModel
   <br>
 2) GPT2Tokenizer
