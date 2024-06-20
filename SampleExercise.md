@@ -3,47 +3,35 @@
 - This exercise demonstrates basic text generation using the GPT-2 model with the Hugging Face Transformers library. 
 - Learners will load a pre-trained model and tokenizer, then complete a script that generates text based on a given input prompt. 
 - Upon completion of this exercise, learners will have loaded a Hugging Face transformer model, generated text, and better understand parameters.
-
+***
+#### Here are the exercise instructions:
+- Import `GPT2LMHeadModel` and `GPT2Tokenizer` from the `transformers` library.
+- Load the model and tokenizer from `.pretrained` 
+- Set the number of tokens for the `max_length` of generated text as 50.
+- Generate 2 different text sequences with `num_return_sequences` input.
+  
+- BONUS: Run the code with various inputs and parameters and consider the impact on generated text output with changes in `max_length` and `num_return_sequences`.
+***
 ```python
-#### Import the necessary libraries from Hugging Face
-from transformers import 1)___ as
+# Import the necessary libraries from Hugging Face
+from transformers import ____ as ____ # gpt2 model
+from transformers import ____ as ____ # tokenizer
 
-from transformers import 2)___ as
+# Load the pre-trained model and tokenizer
+model = ____.from_pretrained('gpt2') 
+tokenizer = ____.from_pretrained('gpt2')
 
-#### Load the pre-trained model and tokenizer
-model = 1)___ .from_pretrained('gpt2')
-
-tokenizer = 2)___ .from_pretrained('gpt2')
-
-#### Encode some input text
+# Encode some input text
 inputs = tokenizer.encode("Today's weather is", add_special_tokens=True, return_tensors='pt')
 
-#### Generate text using the model
-outputs = model.generate(inputs, max_length= 3)___ , num_return_sequences= 4)___)
-
+# Generate text using the model
+outputs = model.generate(inputs, max_length=____, num_return_sequences=____)
 print("Generated text:", tokenizer.decode(outputs[0], skip_special_tokens=True))
 ```
 ***
-#### Here are the exercise instructions in different format:
-- Replace 1)___ with the name of the class for loading the model.
-  
-- Replace 2)___ with the name of the tokenizer class from the Transformers library.
-  
-- Fill in 3)___ to set the number of tokens for the generated text as 50.
-  
-- Input a suitable number in 4)___ to generate 2 different text sequences based on the input.
-  
-- BONUS: Run the code with various inputs and parameters and consider the impact on generated text output with changes in max_length and num_return_sequences.
-
 Answers:
 1) GPT2LMHeadModel
 2) GPT2Tokenizer
 3) 50
 4) 2
-results = image_classifier(cropped_image)
-
-# Print the results
-print(results[0]["label"])
-```
-
 
