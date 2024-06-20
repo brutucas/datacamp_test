@@ -9,14 +9,14 @@ from transformers import 1)___ as
 from transformers import 2)___ as
 
 #### Instruction 2: Load the pre-trained model and tokenizer
-model = 1)___.from_pretrained('gpt2')
-tokenizer = 2)___.from_pretrained('gpt2')
+model = 1)___ .from_pretrained('gpt2')
+tokenizer = 2)___ .from_pretrained('gpt2')
 
 #### Instruction 3: Encode some input text
 inputs = tokenizer.encode("Today's weather is", add_special_tokens=True, return_tensors='pt')
 
 #### Instruction 4: Generate text using the model
-outputs = model.generate(inputs, max_length= 3)___, num_return_sequences= 4)___)
+outputs = model.generate(inputs, max_length= 3)___ , num_return_sequences= 4)___)
 print("Generated text:", tokenizer.decode(outputs[0], skip_special_tokens=True))
 
 #### Here are the exercise instructions in different format:
