@@ -17,7 +17,7 @@ To complete this course, you would benefit from having already completed ‘Deep
 ### Course Objectives:
 What will this course help you to achieve? For a more streamlined list of objectives, please refer to the course outline. You will see below an exhaustive list of the course objectives. 
 
-It is very long - much longer than anything I would put into a guide for learners. But I include it, because the too-long list demonstrates very clearly the progress that a DataCamp learner will have made upon completion of the lessons and exercises in this proposed *'Text Generation with Hugging Face'* course.
+It is very long - much longer than anything I would put into a guide for learners. But I include it *as documentation for this interview assignment*, because the too-long list demonstrates very clearly the progress that a DataCamp learner will have made upon completion of the lessons and exercises in this proposed *'Text Generation with Hugging Face'* course.
 
 - Identify the shift from traditional machine learning techniques to deep learning in NLP (Lesson 1.1).
 - Discuss key innovations such as word embeddings and RNNs (Lesson 1.1).
