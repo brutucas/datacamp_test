@@ -43,8 +43,11 @@ In a more complicated exercise, I would include the hints here.
 <br>
 These are the answers to the exercise:
 1) GPT2LMHeadModel
+  <br>
 2) GPT2Tokenizer
+  <br>
 3) 50
+  <br>
 4) 2
 </details>
 
