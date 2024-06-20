@@ -30,15 +30,21 @@ print("Generated text:", tokenizer.decode(outputs[0], skip_special_tokens=True))
 ```
 ***
 <details>
-<summary>#### Hints:</summary>
+<summary>Hints:</summary>
 <br>
+Welcome to this very extravagant dropdown.
 In a more complicated exercise, I would include the hints here.
 </details>
 
 ***
-#### Answers:
+
+<details>
+<summary>Answers:</summary>
+<br>
+These are the answers to the exercise:
 1) GPT2LMHeadModel
 2) GPT2Tokenizer
 3) 50
 4) 2
+</details>
 
