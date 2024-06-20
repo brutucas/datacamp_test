@@ -3,11 +3,11 @@
 
 As part of the interview process for **DataCamp Content Developer**, I have completed an assignment to create an example course, *'Text Generation with Hugging Face'*. 
 
-Here are two* screencast recordings:
-[Screencast 1 - Basic GPT-2 Text Generation](https://drive.google.com/file/d/1EImbyjgDfjzwVATpGwackk0fbkrORR39/view?usp=sharing)
-[Screencast - Interactive Storytelling with GPT-2](https://drive.google.com/file/d/1y5FNcYwFrUSakHdSvrcbYCaVTAYt_TD1/view?usp=drive_link)
+Here are two screencast recordings:
+Lesson 1) [Screencast 1 - Basic GPT-2 Text Generation](https://drive.google.com/file/d/1EImbyjgDfjzwVATpGwackk0fbkrORR39/view?usp=sharing)
+Lesson 2) [Screencast - Interactive Storytelling with GPT-2](https://drive.google.com/file/d/1y5FNcYwFrUSakHdSvrcbYCaVTAYt_TD1/view?usp=drive_link)
 
-*Please note: I needed to keep within the 4-minute limit, so divided the resource I created into two lesson recordings and include them both for your convenience.
+^ Please note: I needed to keep within the 4-minute limit, so divided the resource I created into *two lesson recordings* and include them both for your convenience.
 
 As part of my research for this course proposal, I was impressed (and have already personally benefitted from the courses *'Working with Hugging Face'* and *'Deep Learning for Text with Pytorch'*. 
 
