@@ -10,9 +10,7 @@ Here are two screencast recordings:
 
 ^ Please note: I needed to keep within the 4-minute limit, so divided the resource I created into *two lesson recordings* and include them both for your convenience.
 
-As part of my research for this course proposal, I was impressed (and have already personally benefitted from the courses *'Working with Hugging Face'* and *'Deep Learning for Text with Pytorch'*. 
-
-But after looking at the existing DataCamp lessons on text generation, I identified text generation using the Hugging Face Transformers library (undoubtedly a cutting-edge 'frontier' of AI) as an area that would benefit from more course provision. 
+My personal learning has already benefitted from these courses, but as part of my research for this course proposal, I was further impressed by *'Working with Hugging Face'* and *'Deep Learning for Text with Pytorch'*. However, I have identified more advanced text generation with pre-trained transformer models (undoubtedly a cutting-edge 'frontier' of AI) as an area where DataCamp could offer more content. 
 
 Indeed, this course is designed to fill a gap that I need as a learner, in order to be able to confidently generate a wide variety, complexity, and length of text with pre-trained models, especially in different use-case scenarios.
 ***
