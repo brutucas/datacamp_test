@@ -1,0 +1,29 @@
+# Sample Exercise: Basic Text Generation with GPT-2
+
+- This exercise demonstrates basic text generation using the GPT-2 model with the Hugging Face Transformers library. 
+- Learners will load a pre-trained model and tokenizer, then complete a script that generates text based on a given input prompt. 
+- Upon completion of this exercise, learners will have loaded a Hugging Face transformer model, generated text, and better understand parameters.
+
+# Import the necessary libraries from Hugging Face
+from transformers import 1)___ as
+from transformers import 2)___ as
+
+# Load the pre-trained model and tokenizer
+tokenizer = 2)___.from_pretrained('gpt2')
+model = 1)___.from_pretrained('gpt2')
+
+# Encode some input text
+
+
+
+
+
+# Generate text using the model
+outputs = model.generate(inputs, max_length= 3)___, num_return_sequences= 4)___)
+print("Generated text:", tokenizer.decode(outputs[0], skip_special_tokens=True))
+
+Answers:
+1) GPT2LMHeadModel
+2) GPT2Tokenizer
+3) 50 (as a suggested starting point for max_length)
+4) 1 (as a suggested starting value for num_return_sequences)
