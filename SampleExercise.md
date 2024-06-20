@@ -4,6 +4,7 @@
 - Learners will load a pre-trained model and tokenizer, then complete a script that generates text based on a given input prompt. 
 - Upon completion of this exercise, learners will have loaded a Hugging Face transformer model, generated text, and better understand parameters.
 
+```python
 #### Import the necessary libraries from Hugging Face
 from transformers import 1)___ as
 
@@ -21,6 +22,7 @@ inputs = tokenizer.encode("Today's weather is", add_special_tokens=True, return_
 outputs = model.generate(inputs, max_length= 3)___ , num_return_sequences= 4)___)
 
 print("Generated text:", tokenizer.decode(outputs[0], skip_special_tokens=True))
+```
 ***
 #### Here are the exercise instructions in different format:
 - Replace 1)___ with the name of the class for loading the model.
@@ -38,13 +40,6 @@ Answers:
 2) GPT2Tokenizer
 3) 50
 4) 2
-
-```python
-# Create the pipeline
-image_classifier = pipeline(task="image-classification", 
-            model="abhishek/autotrain_fashion_mnist_vit_base")
-
-# Predict the class of the image
 results = image_classifier(cropped_image)
 
 # Print the results
